@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/airbnb-clonea-pp/static/css/main.9615aeb1.css",
+    "main.js": "/airbnb-clonea-pp/static/js/main.c45c39ca.js",
+    "static/js/787.dfddbc11.chunk.js": "/airbnb-clonea-pp/static/js/787.dfddbc11.chunk.js",
+    "static/media/logo.svg": "/airbnb-clonea-pp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/airbnb-clonea-pp/index.html",
+    "main.9615aeb1.css.map": "/airbnb-clonea-pp/static/css/main.9615aeb1.css.map",
+    "main.c45c39ca.js.map": "/airbnb-clonea-pp/static/js/main.c45c39ca.js.map",
+    "787.dfddbc11.chunk.js.map": "/airbnb-clonea-pp/static/js/787.dfddbc11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9615aeb1.css",
+    "static/js/main.c45c39ca.js"
+  ]
+}
